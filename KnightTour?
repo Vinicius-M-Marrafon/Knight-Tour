@@ -1,4 +1,0 @@
-O problema do Knigth's Tour consiste em, dado um posição inicial em um tabuleiro de ordem n, isto é possui n^2 casas, percorrer TODAS as
-n^2 casas do tabuleiro sem que haja nenhuma repetição do mesmo. Tal objtivo deve ser realizado considerando o movimento do cavalo (em "L")!
-
-A solução para tal problema é bem simples! Basta sempre irmos para a casa, cujo possui o menor número de vértices adjacentes disponível!
