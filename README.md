@@ -8,4 +8,4 @@ The problem is, given the initial position of the Knight piece, we need to find 
 
 ### About the solution
 
-To solve this problem I use the ***Warnsdorff Algorithm***. The idea is very simple. We always look for adjacencies that have the smallest number of adjacencies. This logic can be found at *check_options* function.
+To solve this problem I use the ***Warnsdorff's Algorithm***. The idea is very simple. We always look for adjacencies that have the smallest number of adjacencies. This logic can be found at *check_options* function.
